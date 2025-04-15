@@ -1,0 +1,9 @@
+import React from 'react'
+
+function Aboutme() {
+  return (
+    <div>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus consectetur deleniti nobis alias natus nam veritatis ex illum inventore adipisci quam tenetur blanditiis velit, asperiores nulla sunt. Ipsa quaerat distinctio vero, tempore corrupti animi velit assumenda aliquid architecto iure ducimus ex exercitationem, at recusandae commodi veritatis repellendus quisquam omnis provident deleniti dolores placeat! Quisquam optio dolor in dignissimos eaque distinctio consectetur aspernatur earum? Vero non consequuntur, aut doloribus cum sint eius deserunt nihil recusandae, consectetur repellendus? Ad nobis, itaque voluptatum quos perferendis saepe, illum quibusdam et fuga corrupti eius! Veniam illo numquam consequuntur esse debitis unde non blanditiis, cum earum laboriosam. Iusto numquam eligendi tenetur molestiae nam exercitationem minus sunt beatae repellendus impedit nihil architecto, saepe ut quaerat deserunt cum molestias, maiores eaque voluptate. Sint, ipsa molestias! Esse veritatis architecto placeat ratione reprehenderit ullam itaque cum accusantium dolorum explicabo ipsa necessitatibus voluptates, tenetur sunt quasi officiis eum earum dolore eos quod consectetur impedit excepturi libero ipsam. Iusto itaque, deserunt quod accusamus est esse sunt accusantium velit tempore, sapiente expedita? Eius quidem quibusdam, atque perferendis incidunt soluta, et nemo similique saepe quisquam quia. Natus iste expedita explicabo sint, quae saepe repellat ea sed facere sapiente asperiores maxime repellendus eaque neque veritatis?</div>
+  )
+}
+
+export default Aboutme
