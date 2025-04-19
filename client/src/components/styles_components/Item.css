@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+
+.container-item{
+    background-color: grey;
+    display: block;
+    width: 20%;
+    height: 15%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.title-item{
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.desc-item{ 
+    color: white;
+    font-size: 15px;
+}
