@@ -1,9 +1,10 @@
 import React from 'react'
 import './styles_components/Button.css'
+import { Link } from 'react-router-dom'
 
 function Button() {
   return (
-    <button>Enter</button>
+    <button><Link to="/dashboard">Enter</Link></button>
   )
 }
 
